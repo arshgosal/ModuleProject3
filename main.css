@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+    background-color: grey;
+}
+h1, h2, h3 {
+  background-color: white;
+  padding-top: 50px; 
+  color: rgb(0, 0, 0);
+  padding-bottom: 1px; 
+  text-align:center; 
+  font-family: 'Acme', sans-serif;
+}
+img{ 
+    height: 500px;
+    width: 500px;
+    margin: 0 100px;
+}
+
+footer{
+    background-color: white;
+}
